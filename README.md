@@ -17,12 +17,14 @@ La interfaz incluye:
 - Logo central
 - Barra de busqueda
 - Botones de accion principales
+- Pie de pagina con enlaces informativos
 
 ## Tecnologias utilizadas
 
 - HTML5
 - CSS3
 - Google Fonts para iconos Material Symbols
+- Flexbox para la distribucion de elementos
 
 ## Estructura del proyecto
 
@@ -51,6 +53,7 @@ Este proyecto fue desarrollado como ejercicio practico para reforzar habilidades
 - Agregar estados `hover` mas detallados
 - Mejorar accesibilidad en inputs, botones e imagenes
 - Conectar la barra de busqueda con JavaScript
+- Reemplazar recursos externos por archivos locales
 
 ## Autor
 
